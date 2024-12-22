@@ -1,6 +1,11 @@
 
 
-[![kyleclou](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/kyleclou)
+[![kyleclou](https://img.shields.io/badge/kyleclou-github-orange?logo=github)](https://github.com/kyleclou)
+
+
+[![kylou[at]ucsd.edu](https://img.shields.io/badge/kylou[at]ucsd.edu-email-red?logo=gmail)](https://github.com/kyleclou)
+
+[![kylou@ucsd.edu](https://img.shields.io/badge/kyleclou-LinkedIn-blue?logo=linkedin)](mailto:kylou@ucsd.edu)
 
 I am a junior studying Computer Engineering at the University of California, San Diego. My research focuses on digital signal processing, statistical signal analysis, and control systems, with applications ranging from adaptive filtering to analyzing complex experimental datasets. I look to apply these techniques beyond traditional domains, exploring their use in computer vision, machine learning, and other interdisciplinary fields.
 
