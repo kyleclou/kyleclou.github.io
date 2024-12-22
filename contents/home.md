@@ -13,13 +13,7 @@ I am proud to be part of [RareLabs](https://rarelabs.ucsd.edu/) at UC San Diego,
 
 Previously, I worked as an intern at Daiwa Capital Markets in Hong Kong, where I designed and implemented a data analysis platform for the Hong Kong exchange. This project involved processing large-scale financial datasets and building tools to support data-driven insights for trading and investment decisions. The experience strengthened my skills in data analysis, algorithm development, and applying engineering principles to high-impact, real-world challenges.
 
-Please feel free to reach out to me with any questions via email!
-
-#### Email
-kylou@ucsd.edu
-
-#### Github
-
+Please feel free to reach out to me with any questions via [email](mailto:kylou@ucsd.edu)!
 
 #### Research Interests
 Digital Signal Processing, Statistical Signal Processing, Control Systems
