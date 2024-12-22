@@ -1,6 +1,7 @@
 - <strong>Vehicle Steering Control</strong> (MATLAB)
     - This project focuses on the development and optimization of a linearized vehicle steering system using advanced signal processing and control techniques. The goal was to create a system that mimics human-like steering responses while ensuring precision and stability in various driving conditions. By applying principles of digital signal processing (DSP) and adaptive filtering, the system adjusts steering input based on real-time sensor data, providing a more responsive and safer driving experience.
 
+
 - <strong>Simulation of OFDM in LTE Communication Systems</strong>  (MATLAB)
     - This project explores the design and implementation of an Orthogonal Frequency Division Multiplexing (OFDM) system, optimized for LTE networks. The objective was to develop a robust communication system capable of handling high data rates while mitigating issues such as inter-symbol interference (ISI) and frequency-selective fading. Using techniques from digital signal processing (DSP), I designed and simulated the transmitter and receiver sections of the OFDM system, including modulation, channel coding, and equalization. 
 
