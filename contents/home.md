@@ -18,3 +18,6 @@ kylou@ucsd.edu
 #### Research Interests
 Digital Signal Processing, Statistical Signal Processing, Control Systems
 
+#### CV
+A copy of my CV can be found [here](https://kyleclou.github.io/Files/CV.pdf).
+
