@@ -5,6 +5,9 @@
 - <strong>Simulation of OFDM in LTE Communication Systems</strong>  (MATLAB)
     - This project explores the design and implementation of an Orthogonal Frequency Division Multiplexing (OFDM) system, optimized for LTE networks. The objective was to develop a robust communication system capable of handling high data rates while mitigating issues such as inter-symbol interference (ISI) and frequency-selective fading. Using techniques from digital signal processing (DSP), I designed and simulated the transmitter and receiver sections of the OFDM system, including modulation, channel coding, and equalization. 
 
+- test
+
+
 - <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q.Niu (2024). Label Noise-Robust Learning for Microseismic Arrival Time Picking. <strong>In Revision.</strong> [[Code]](https://github.com/senli1073/LNRL)
 
 
