@@ -1,4 +1,4 @@
-- <strong>Vehicle Steering Control</strong> (MATLAB): [[Report]](https://kyleclou/kyleclou.github.io/Files/Vehicle%20Steering%20Project%20Report.pdf)
+- <strong>Vehicle Steering Control</strong> (MATLAB): [[Report]](https://kyleclou.github.io/Files/Vehicle%20Steering%20Project%20Report.pdf)
     - This project focuses on the development and optimization of a linearized vehicle steering system using advanced signal processing and control techniques. The goal was to create a system that mimics human-like steering responses while ensuring precision and stability in various driving conditions. By applying principles of digital signal processing (DSP) and adaptive filtering, the system adjusts steering input based on real-time sensor data, providing a more responsive and safer driving experience.
 <br/>
 
